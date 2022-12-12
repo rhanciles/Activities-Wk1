@@ -2,7 +2,7 @@
 
 ## Exercise Repo
 
-### User Story
+### Description
 As a Bootcamp student, one thing I find that we are constantly being reminded of, is to make it a habit of using Git and GitHub as often as we possibly can. It’s clear from what I have read or heard in this short space of time since enrolling for this course – Front-End Web Development – that it is in my best interest to start as early as I can. I set up this repo to enable me to do just that. Practice, practice, and keep practicing. The plan is to use my weekly exercise files to enable me to do just that. Improve my skills on Git and the use of GitHub by creating the relevant repository and commit, push, pull and merge various folders on a weekly basis. Honing my skills on using the ‘Agile Project Management’ principle in the process.
 
 ### Usage
