@@ -20,6 +20,7 @@ h2 {
 }
 .container {
     margin: 0 auto;
+    width: auto;
 }
 #main-bio #bio-image {
     float: left;
